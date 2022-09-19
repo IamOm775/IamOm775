@@ -1,7 +1,12 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58760825/180067892-1e31d21d-5882-446b-9ef7-bdfb19ec35b7.png" width="100px">
+  <img src="https://user-images.githubusercontent.com/58760825/180067892-1e31d21d-5882-446b-9ef7-bdfb19ec35b7.png" width="100px">
+</p>
 
-[![MasterHead](<p align="left"> <img src="https://user-images.githubusercontent.com/58760825/180067892-1e31d21d-5882-446b-9ef7-bdfb19ec35b7.png" /> </p>
-               <p align="right"> <img src="https://user-images.githubusercontent.com/58760825/180067892-1e31d21d-5882-446b-9ef7-bdfb19ec35b7.png" /> </p>
-               <p align="down"> <img src="https://user-images.githubusercontent.com/58760825/180069633-4c8fe4cd-5091-4f53-be50-264ff396ee5c.png /> </p>)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58760825/180069633-4c8fe4cd-5091-4f53-be50-264ff396ee5c.png" width="130px">
+</p>
+               
 <h1 align="center">Hi 👋, I'm Om</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
