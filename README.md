@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **C++,JavaScript**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python,Flutter**
 
 - 📫 How to reach me **om.works01@gmail.com**
 
