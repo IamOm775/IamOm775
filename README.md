@@ -12,6 +12,7 @@
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamOm775&theme=github_dark)  
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamOm775&theme=github_dark)  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamOm775&theme=github_dark" alt="IamOm775" />
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
