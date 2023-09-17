@@ -14,5 +14,12 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamOm775&theme=github_dark)  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IamOm775&theme=github_dark" alt="IamOm775" />
+### My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.ommishra.me/devtown-the-social-media-for-developers" title="Devtown-The Social Media For Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686811676956/292d5b57-d655-4615-857c-342c90817195.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Devtown-The Social Media For Developers" width="250px" align="left" /></a>
+<a href="https://blog.ommishra.me/devtown-the-social-media-for-developers" title="Devtown-The Social Media For Developers"><strong>Devtown-The Social Media For Developers</strong></a>
+<div><strong>20 July 2023</strong></div>
+<br/>Devtown is a social media app specifically designed for developers. It provides a platform for developers to connect, share their work, and engage with other like-minded individuals.</p>
+<!-- HASHNODE_BLOG:END -->
 
