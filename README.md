@@ -8,12 +8,6 @@
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-# 📊Github Stats
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)      ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IamOm775&theme=github_dark)  [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IamOm775&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
